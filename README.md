@@ -1,2 +1,0 @@
-# coursera-home
-c repository 
